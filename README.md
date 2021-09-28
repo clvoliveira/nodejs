@@ -1,2 +1,2 @@
 # nodejs
-Programas desenvolvidos no livro.
+Programas desenvolvidos no livro "Node.js: programe de forma rápida e prática".
